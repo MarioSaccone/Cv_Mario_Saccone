@@ -12,14 +12,13 @@ Ciao! Mi chiamo **Mario**, ho 20 anni e sono appassionato di tecnologia e intell
 - **Machine Learning:** Nozioni di base
 - **Strumenti:** GitHub
 - **Lingue:** Italiano (madrelingua), Inglese, Francese e Cinese
-- **Soft Skills:** Lavoro di squadra, gestione del pubblico
+- **Soft Skills:** Lavoro di squadra, gestione del pubblico, capacità decisionale sotto pressione
 
 - ## 💼 Esperienze lavorative
 - 🍔 **Crew Member - McDonald's**  
   *Ho sviluppato competenze nel lavoro di squadra, nella gestione del tempo e nel rapporto con il pubblico.*
-
-## 🚀 Progetti
-📌 *()*
+- ⚖️ **Arbitro di calcio**  
+  *Esperienza che mi ha insegnato a prendere decisioni rapide e sotto pressione, sviluppando capacità di leadership e gestione dei conflitti.*
 
 ## 📫 Contatti
 - GitHub: [MarioSaccone](https://github.com/MarioSaccone)
