@@ -17,8 +17,8 @@ Ciao! Mi chiamo **Mario**, ho 20 anni e sono appassionato di tecnologia e intell
 📌 *(Qui puoi aggiungere i tuoi progetti personali o esercizi che hai realizzato!)*
 
 ## 📫 Contatti
-- GitHub: [Il tuo username](https://github.com/tuo-username)
-- Email: [La tua email]
+- GitHub: [MarioSaccone](https://github.com/tuo-username)
+- Email: [mariosaccone007@gmail.com]
 
 ---
 💡 *In continuo apprendimento e alla ricerca di nuove sfide!*
