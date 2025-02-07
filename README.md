@@ -1,4 +1,4 @@
-# 💼 Mario - Junior Python & Machine Learning Enthusiast
+# 💼 Mario - Figura entry level nel mondo della programmazione
 
 ## 👋 Chi sono
 Ciao! Mi chiamo **Mario**, ho 20 anni e sono appassionato di tecnologia e intelligenza artificiale. Dopo essermi diplomato in lingue, ho deciso di approfondire il mondo della programmazione, focalizzandomi su **Python** e **Machine Learning**.
