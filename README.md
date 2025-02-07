@@ -5,19 +5,19 @@ Ciao! Mi chiamo **Mario**, ho 20 anni e sono appassionato di tecnologia e intell
 
 ## 📚 Formazione
 - 🎓 **Diploma in Lingue**
-- 📖 Attualmente seguo un **corso di Python e Machine Learning**
+- 📖 Attualmente seguo un **corso di Python e Machine Learning** con FormaTemp
 
 ## 🛠️ Competenze
 - **Linguaggi di programmazione:** Python
 - **Machine Learning:** Nozioni di base
-- **Strumenti:** Git, GitHub
-- **Lingue:** Italiano (madrelingua), Inglese
+- **Strumenti:** GitHub
+- **Lingue:** Italiano (madrelingua), Inglese, Francese e Cinese
 
 ## 🚀 Progetti
-📌 *(Qui puoi aggiungere i tuoi progetti personali o esercizi che hai realizzato!)*
+📌 *()*
 
 ## 📫 Contatti
-- GitHub: [MarioSaccone](https://github.com/tuo-username)
+- GitHub: [MarioSaccone](https://github.com/MarioSaccone)
 - Email: [mariosaccone007@gmail.com]
 
 ---
