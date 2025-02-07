@@ -12,6 +12,11 @@ Ciao! Mi chiamo **Mario**, ho 20 anni e sono appassionato di tecnologia e intell
 - **Machine Learning:** Nozioni di base
 - **Strumenti:** GitHub
 - **Lingue:** Italiano (madrelingua), Inglese, Francese e Cinese
+- **Soft Skills:** Lavoro di squadra, gestione del pubblico
+
+- ## 💼 Esperienze lavorative
+- 🍔 **Crew Member - McDonald's**  
+  *Ho sviluppato competenze nel lavoro di squadra, nella gestione del tempo e nel rapporto con il pubblico.*
 
 ## 🚀 Progetti
 📌 *()*
