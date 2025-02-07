@@ -1,0 +1,46 @@
+from abc import ABC, abstractmethod
+
+# Classe astratta Impiegato
+class Impiegato(ABC):
+    def __init__(self, nome, cognome, stipendio_base):
+        self.nome = nome
+        self.cognome = cognome
+        self.stipendio_base = stipendio_base
+    
+    @abstractmethod
+    def calcola_stipendio(self):
+        pass
+
+    def __str__(self):
+        return f"{self.nome} {self.cognome} - Stipendio: {self.calcola_stipendio()}"
+
+# Classe derivata per impiegato fisso
+class ImpiegatoFisso(Impiegato):
+    def calcola_stipendio(self):
+        return self.stipendio_base
+
+# Classe derivata per impiegato a provvigione
+class ImpiegatoAProvvigione(Impiegato):
+    def __init__(self, nome, cognome, stipendio_base, vendite, percentuale_provvigione):
+        super().__init__(nome, cognome, stipendio_base)
+        self.vendite = vendite
+        self.percentuale_provvigione = percentuale_provvigione
+    
+    def calcola_stipendio(self):
+        return self.stipendio_base + (self.vendite * self.percentuale_provvigione)
+
+# Funzione per stampare le informazioni degli impiegati
+def stampa_info_impiegati(impiegati):
+    for impiegato in impiegati:
+        print(impiegato)
+
+# Esempio di utilizzo
+if __name__ == "__main__":
+    impiegati = [
+        ImpiegatoFisso("Mario", "Saccone", 2000),
+        ImpiegatoAProvvigione("Marek", "Hamsik", 1500, vendite=10000, percentuale_provvigione=0.05),
+        ImpiegatoFisso("Edinson", "Cavani", 2200),
+        ImpiegatoAProvvigione("Pocho", "Lavezzi", 1400, vendite=8000, percentuale_provvigione=0.04)
+    ]
+    
+    stampa_info_impiegati(impiegati)
