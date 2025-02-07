@@ -21,7 +21,6 @@ Ciao! Mi chiamo **Mario**, ho 20 anni e sono appassionato di tecnologia e intell
   *Esperienza che mi ha insegnato a prendere decisioni rapide e sotto pressione, sviluppando capacità di leadership e gestione dei conflitti.*
 
 ## 📫 Contatti
-- GitHub: [MarioSaccone](https://github.com/MarioSaccone)
 - Email: [mariosaccone007@gmail.com]
 
 ---
