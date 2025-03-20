@@ -5,7 +5,7 @@ Ciao! Mi chiamo **Mario**, ho 20 anni e sono appassionato di tecnologia e intell
 
 ## 📚 Formazione
 - 🎓 **Diploma in Lingue**
-- 📖 Attualmente seguo un **corso di Python e Machine Learning** con FormaTemp
+- 📖 Ho seguito un **corso di Python e Machine Learning** con FormaTemp
 
 ## 🛠️ Competenze
 - **Linguaggi di programmazione:** Python
